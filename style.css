@@ -1,0 +1,131 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.header-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.half-width p{
+    font-size: 12px;
+    color: #707070;
+    margin-bottom: 15px;
+}
+
+h2.header-name {
+    color: #EC4C7A;
+    font-size: 30px;
+    margin-top: -15px;
+}
+
+.half-width h1{
+
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+
+.person-img{
+    margin-top: -70px;
+}
+section{
+    height: 500px;
+}
+
+.btn-hire{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4F91,#EC4C76);
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.personal-info{
+    margin-left: 42%;
+}
+.bio-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.btn-bio{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC4F91,#EC4C76);
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;  
+}
+.bio-info {
+    margin-top: 110px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.latest-work h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.latest-width {
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.latest-width img{
+    width: 100%;
+}
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-area{
+    text-align: center;
+    width: 367px;
+    margin: 0 auto;
+    padding-bottom: 90px;
+}
+.footer-area h2{
+
+}
+
+.footer-area p{
+    font-weight: bold;
+    margin-bottom: -23px;
+}
+p.clinet-des {
+    margin-top: 50px;
+    font-weight: normal;
+}
+.email{
+    width: 400px;
+    height: 120px;
+    background-image: linear-gradient(45deg, #EC5094, #EC4B74);
+    margin: 0 auto;
+    border-radius: 5px;
+    text-align: center;
+    color: white
+}
+
+p.msg{
+    font-size: 11px;
+    padding-top: 12px;
+}
+p.email-id{
+    font-size: 24px;
+    font-weight: 400;
+}
